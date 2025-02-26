@@ -24,8 +24,7 @@ I am a dedicated Senior Software Engineering student at UPM and a member at the 
 ![VS Code](https://img.shields.io/badge/VS%20Code-008000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trsjmx&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/trsjmx/github-readme-stats)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=trsjmx&layout=compact&hide=html)
 
 
 <h2> 🤝🏻 Connect with Me  </h2>
