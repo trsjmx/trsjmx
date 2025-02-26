@@ -17,11 +17,11 @@ I am a dedicated Senior Software Engineering student at UPM and a member at the 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FFCA28?style=for-the-badge&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/java-007ACC?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFCA28?style=for-the-badge&logo=Python&logoColor=white)
 ![Jupiter](https://img.shields.io/badge/Jupiter-FFCA28?style=for-the-badge&logo=fJupiter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-02569B?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-02569B?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trsjmx&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/trsjmx/github-readme-stats)
