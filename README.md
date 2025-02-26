@@ -21,7 +21,7 @@ I am a dedicated Senior Software Engineering student at UPM and a member at the 
 ![Python](https://img.shields.io/badge/Python-02569B?style=for-the-badge&logo=Python&logoColor=white)
 ![Jupiter](https://img.shields.io/badge/Jupiter-007ACC?style=for-the-badge&logo=fJupiter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FA7343?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-008000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trsjmx&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/trsjmx/github-readme-stats)
