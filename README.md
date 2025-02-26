@@ -19,7 +19,7 @@ I am a dedicated Senior Software Engineering student at UPM and a member at the 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![java](https://img.shields.io/badge/java-02569B?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FA7343?style=for-the-badge&logo=Python&logoColor=white)
-![Jupiter](https://img.shields.io/badge/Jupiter-FFCA28?style=for-the-badge&logo=fJupiter&logoColor=white)
+![Jupiter](https://img.shields.io/badge/Jupiter-FA7343?style=for-the-badge&logo=fJupiter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
