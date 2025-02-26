@@ -8,7 +8,7 @@ I am a dedicated Senior Software Engineering student at UPM and a member at the 
 - 🔭 &nbsp; Currently expanding my skills in Swift and IOS development
 - 😄 &nbsp; Member at Apple Developer Academy 
 - 💼 &nbsp; Currently working on developing Rewaq system (AI powered app to humanaize the workspace environment) using Flutter 
-- ⚡ &nbsp; Interested in software development and Artificial Intelligence
+- ⚡ &nbsp; Interested in Software Development and Artificial Intelligence
   
 
 <h2> 🛠️ Technologies & Tools </h2>
